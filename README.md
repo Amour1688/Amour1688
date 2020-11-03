@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+长期内推蚂蚁、滴滴、字节，有需要内推的可以发邮件至 lcz_1996@foxmail.com
+
 <!--
 **Amour1688/Amour1688** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
